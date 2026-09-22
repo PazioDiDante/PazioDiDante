@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi. My name is Daniil Trakov.
 
-<!--
-**PazioDiDante/PazioDiDante** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Developer with 5+ years of experience working with C# and .NET. My primary areas are backend services, REST APIs, data synchronization, CI/CD, and development automation.
 
-Here are some ideas to get you started:
+Based in Tbilisi, Georgia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+* [Jira 2 AI](https://github.com/PazioDiDante/Jira-2-AI) — AI-assisted Jira and Git workflow built with C# and ASP.NET Core.
+* [PixelSortStation](https://github.com/PazioDiDante/PixelSortStation) — image-processing and animation application built with C# and WPF.
+* [Widgets Shell](https://github.com/PazioDiDante/Widgets-Shell) — customizable Windows desktop widgets built with Electron and native Windows integration.
+
+## Stack
+
+C# · .NET · ASP.NET · Entity Framework · PostgreSQL · REST APIs · GitHub Actions · PowerShell · Git
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/daniil-trakov/) · [Email](mailto:trakovdanil@gmail.com)
