@@ -9,7 +9,7 @@ Based in Tbilisi, Georgia.
 * [Jira 2 AI](https://github.com/PazioDiDante/Jira-2-AI) — AI-assisted Jira and Git workflow built with C# and ASP.NET Core.
 * [PixelSortStation](https://github.com/PazioDiDante/PixelSortStation) — image-processing and animation application built with C# and WPF.
 * [Widgets Shell](https://github.com/PazioDiDante/Widgets-Shell) — customizable Windows desktop widgets built with Electron and native Windows integration.
-
+* [Bunnubis]((https://github.com/PazioDiDante/Bunnubis) — a short top-down puzzle-adventure set inside an ancient Egyptian pyramid, built with GameMaker.
 ## Stack
 
 C# · .NET · ASP.NET · Entity Framework · PostgreSQL · REST APIs · GitHub Actions · PowerShell · Git
